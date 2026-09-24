@@ -1,2 +1,16 @@
-# File-Format-Inspector
-Windows desktop application for file format identification, hex editing, binary data analysis, entropy calculation, pattern detection and file integrity verification. Built with Python, PySide6, NumPy and SciPy.
+
+# BYLICKILABS File Format Inspector
+
+> [!IMPORTANT]
+> 🚀 **COMING SOON**
+>
+> **English**
+>
+> The BYLICKILABS File Format Inspector is currently in the final stage of development.
+> The application will be available once development and final functional testing have been completed.
+
+---
+
+### 🔍 File Analysis | Hex Editor | Binary Data Analysis
+
+**BYLICKILABS © 2026**
