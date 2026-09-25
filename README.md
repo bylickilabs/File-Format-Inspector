@@ -17,7 +17,8 @@
 > [!CAUTION]
 > **DE:** Der File Format Inspector ist **kein Antivirenprogramm**.
 > - Erkannte Dateiformate, auffällige Muster und Entropiewerte sind Untersuchungsergebnisse, keine Aussage über die Sicherheit einer Datei.
-> - Die analysierten Dateien werden nicht ausgeführt.  
+> - Die analysierten Dateien werden nicht ausgeführt.
+> 
 > **EN:** File Format Inspector is **not an antivirus scanner**.
 > - Identified formats, unusual patterns, and entropy values are analysis results, not a determination that a file is safe or malicious.
 > - Analyzed files are not executed.
